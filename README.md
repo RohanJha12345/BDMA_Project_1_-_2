@@ -139,12 +139,5 @@ We welcome contributions! To contribute:
 4. Push the branch (`git push origin feature-branch`).
 5. Open a **Pull Request**.
 
----
-
-## **📞 Contact & Support**
-For any issues or queries, reach out via:
-📧 **Email:** Abhijeet1472@gmail.com 
-🔗 **GitHub Issues:** [Open an issue](https://github.com/Abhijeet-Real/Pet-Adoption-Rescue-Management/issues)
-
 🚀 **Happy Coding!** 🎉
 
